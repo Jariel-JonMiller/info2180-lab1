@@ -1,0 +1,21 @@
+h1 {
+    font-size: 42px;
+    font-family: Georgia, “Times New Roman”, serif;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #38B2AC;
+   }
+
+h2 {
+    font-size: 21px; 
+    line-height: 2;
+    letter-spacing: 1px;
+    background-color: #5A67D8;
+   }
+
+p {
+    font-size: 8px; 
+    line-height: 2;
+    letter-spacing: 1px;
+   }
